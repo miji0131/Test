@@ -1,0 +1,10 @@
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\bin\Debug\HelloCSharp009_04.exe.config
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\bin\Debug\HelloCSharp009_04.exe
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\bin\Debug\HelloCSharp009_04.pdb
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.Form1.resources
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.Properties.Resources.resources
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.exe
+C:\Users\Samsung\source\repos\HelloCSharp009_04\HelloCSharp009_04\obj\Debug\HelloCSharp009_04.pdb

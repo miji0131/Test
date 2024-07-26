@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F0D36-8A67-45F7-9800-7125E406B52D}|HelloCSharp006_05\\HelloCSharp006_05.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66F0D36-8A67-45F7-9800-7125E406B52D}|HelloCSharp006_05\\HelloCSharp006_05.csproj|solutionrelative:hellocsharp006_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F0D36-8A67-45F7-9800-7125E406B52D}|HelloCSharp006_05\\HelloCSharp006_05.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66F0D36-8A67-45F7-9800-7125E406B52D}|HelloCSharp006_05\\HelloCSharp006_05.csproj|solutionrelative:hellocsharp006_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F0D36-8A67-45F7-9800-7125E406B52D}|HelloCSharp006_05\\HelloCSharp006_05.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C66F0D36-8A67-45F7-9800-7125E406B52D}|HelloCSharp006_05\\HelloCSharp006_05.csproj|solutionrelative:hellocsharp006_05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47BD4E9-DCB3-4F38-B461-8D69B053D6E1}|HelloCSharp006_08\\HelloCSharp006_08.csproj|C:\\Users\\User\\source\\repos\\HelloCSharp006\\hellocsharp006_08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47BD4E9-DCB3-4F38-B461-8D69B053D6E1}|HelloCSharp006_08\\HelloCSharp006_08.csproj|solutionrelative:hellocsharp006_08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF6A556-EC33-4A19-A61D-1FD996756D35}|HelloCSharp006_07\\HelloCSharp006_07.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF6A556-EC33-4A19-A61D-1FD996756D35}|HelloCSharp006_07\\HelloCSharp006_07.csproj|solutionrelative:hellocsharp006_07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF6A556-EC33-4A19-A61D-1FD996756D35}|HelloCSharp006_07\\HelloCSharp006_07.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6AF6A556-EC33-4A19-A61D-1FD996756D35}|HelloCSharp006_07\\HelloCSharp006_07.csproj|solutionrelative:hellocsharp006_07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A5459-A5B9-41E6-8D1F-3BD426473052}|HelloCSharp006_06\\HelloCSharp006_06.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_06\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A5459-A5B9-41E6-8D1F-3BD426473052}|HelloCSharp006_06\\HelloCSharp006_06.csproj|solutionrelative:hellocsharp006_06\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A5459-A5B9-41E6-8D1F-3BD426473052}|HelloCSharp006_06\\HelloCSharp006_06.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A5459-A5B9-41E6-8D1F-3BD426473052}|HelloCSharp006_06\\HelloCSharp006_06.csproj|solutionrelative:hellocsharp006_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A5459-A5B9-41E6-8D1F-3BD426473052}|HelloCSharp006_06\\HelloCSharp006_06.csproj|c:\\users\\user\\source\\repos\\hellocsharp006\\hellocsharp006_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A52A5459-A5B9-41E6-8D1F-3BD426473052}|HelloCSharp006_06\\HelloCSharp006_06.csproj|solutionrelative:hellocsharp006_06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47BD4E9-DCB3-4F38-B461-8D69B053D6E1}|HelloCSharp006_08\\HelloCSharp006_08.csproj|C:\\Users\\User\\source\\repos\\HelloCSharp006\\hellocsharp006_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47BD4E9-DCB3-4F38-B461-8D69B053D6E1}|HelloCSharp006_08\\HelloCSharp006_08.csproj|solutionrelative:hellocsharp006_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_05\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_05\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_05\\Program.cs",
+              "RelativeToolTip": "HelloCSharp006_05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:07:04.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_05\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_05\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_05\\Form1.cs",
+              "RelativeToolTip": "HelloCSharp006_05\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:06:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_05\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_05\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_05\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "HelloCSharp006_05\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:06:57.243Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_07\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_07\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_07\\Form1.cs",
+              "RelativeToolTip": "HelloCSharp006_07\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:39:55.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_07\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_07\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_07\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "HelloCSharp006_07\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:39:54.435Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_06\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_06\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_06\\Form1.cs",
+              "RelativeToolTip": "HelloCSharp006_06\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:39:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_06\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_06\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_06\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "HelloCSharp006_06\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:39:41.836Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_06\\Rectangle.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_06\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_06\\Rectangle.cs",
+              "RelativeToolTip": "HelloCSharp006_06\\Rectangle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:14:10.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_08\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_08\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_08\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "HelloCSharp006_08\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:23:33.884Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_08\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp006_08\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp006\\HelloCSharp006_08\\Program.cs",
+              "RelativeToolTip": "HelloCSharp006_08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:23:32.84Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 783,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

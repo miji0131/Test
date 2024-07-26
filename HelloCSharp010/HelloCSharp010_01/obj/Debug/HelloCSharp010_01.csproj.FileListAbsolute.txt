@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\bin\Debug\HelloCSharp010_01.exe.config
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\bin\Debug\HelloCSharp010_01.exe
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\bin\Debug\HelloCSharp010_01.pdb
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\obj\Debug\HelloCSharp010_01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\obj\Debug\HelloCSharp010_01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\obj\Debug\HelloCSharp010_01.exe
+C:\Users\User\source\repos\HelloCSharp010\HelloCSharp010_01\obj\Debug\HelloCSharp010_01.pdb

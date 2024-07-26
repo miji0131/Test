@@ -1,0 +1,11 @@
+ERD https://aquerytool.com/
+국가통계포털 https://kosis.kr/index/index.do
+켄바 https://www.canva.com/ko_kr/login/?redirect=%2Fdesign%2FDAGF0Fu1AaU%2FHjE_XR1Kf75_5G6ogyJekg%2Fedit
+부트스트랩 https://getbootstrap.kr/
+아이콘 https://www.flaticon.com/kr/
+공동데이터포털 https://www.data.go.kr/index.do
+웹사이트제작 https://ko.wix.com/html5homepagebuilder/ko900r-1?utm_source=google&utm_medium=cpc&utm_campaign=20378769304^153859540040^search%20-%20lang&experiment_id=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0^e^665871024871^&gad_source=1&gclid=CjwKCAjw1emzBhB8EiwAHwZZxfJAWytwiRpgqJGP9sasf9N4xx-JWMV-d0DgnPi1LyfRDT6nipGoDRoCIcoQAvD_BwE
+디자인도구 https://www.figma.com/ko-kr/
+컴파일러 https://www.mycompiler.io/ko/new/java
+프로그래머스 https://programmers.co.kr/
+백준 https://www.acmicpc.net/

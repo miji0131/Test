@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|c:\\users\\user\\source\\repos\\bookmanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|c:\\users\\user\\source\\repos\\hellocsharp010\\bookmanager\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|c:\\users\\user\\source\\repos\\hellocsharp010\\bookmanager\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|c:\\users\\user\\source\\repos\\hellocsharp010\\bookmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64639732-28BF-4DD9-810B-DC16803D743E}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookManager\\DataManager.cs",
+              "RelativeDocumentMoniker": "..\\BookManager\\DataManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookManager\\DataManager.cs",
+              "RelativeToolTip": "..\\BookManager\\DataManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:38:18.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\BookManager\\User.cs",
+              "RelativeDocumentMoniker": "BookManager\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\BookManager\\User.cs",
+              "RelativeToolTip": "BookManager\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:37:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\BookManager\\Book.cs",
+              "RelativeDocumentMoniker": "BookManager\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\BookManager\\Book.cs",
+              "RelativeToolTip": "BookManager\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:37:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\BookManager\\Form1.cs",
+              "RelativeDocumentMoniker": "BookManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HelloCSharp010\\BookManager\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BookManager\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:36:48.671Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 783,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

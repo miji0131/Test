@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\bin\Debug\HelloCSharp007.exe.config
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\bin\Debug\HelloCSharp007.exe
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\bin\Debug\HelloCSharp007.pdb
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.Form1.resources
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.Properties.Resources.resources
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.exe
+C:\Users\User\source\repos\HelloCSharp007\HelloCSharp007\obj\Debug\HelloCSharp007.pdb
