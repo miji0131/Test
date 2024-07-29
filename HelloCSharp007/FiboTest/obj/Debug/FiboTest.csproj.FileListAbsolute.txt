@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\bin\Debug\FiboTest.exe.config
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\bin\Debug\FiboTest.exe
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\bin\Debug\FiboTest.pdb
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\obj\Debug\FiboTest.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\obj\Debug\FiboTest.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\obj\Debug\FiboTest.exe
-C:\Users\User\source\repos\HelloCSharp007\FiboTest\obj\Debug\FiboTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.MainForm.resources
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.Properties.Resources.resources
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\bin\Debug\CarParkingManager.exe.config
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\bin\Debug\CarParkingManager.exe
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\bin\Debug\CarParkingManager.pdb
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.exe
+C:\Users\User\source\repos\CarParkingManager\CarParkingManager\obj\Debug\CarParkingManager.pdb

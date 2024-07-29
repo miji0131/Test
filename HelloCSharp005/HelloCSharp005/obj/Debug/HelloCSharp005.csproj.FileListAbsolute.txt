@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\bin\Debug\HelloCSharp005.exe.config
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\bin\Debug\HelloCSharp005.exe
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\bin\Debug\HelloCSharp005.pdb
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\obj\Debug\HelloCSharp005.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\obj\Debug\HelloCSharp005.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\obj\Debug\HelloCSharp005.exe
-C:\Users\User\source\repos\HelloCSharp005\HelloCSharp005\obj\Debug\HelloCSharp005.pdb
