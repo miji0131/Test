@@ -1,0 +1,8 @@
+<books>
+	<book>
+		<isbn>111</isbn>		<name>222</name>		<userId>222</userId>		<userName>이미지</userName>		<isBorrowed>1</isBorrowed>		<borrowedAt>2024-07-29 오후 2:21:38</borrowedAt>	</book>
+	<book>
+		<isbn>111223</isbn>		<name>222</name>		<userId></userId>		<userName></userName>		<isBorrowed>0</isBorrowed>		<borrowedAt>0001-01-01 오전 12:00:00</borrowedAt>	</book>
+	<book>
+		<isbn>1112234</isbn>		<name>222</name>		<userId></userId>		<userName></userName>		<isBorrowed>0</isBorrowed>		<borrowedAt>0001-01-01 오전 12:00:00</borrowedAt>	</book>
+</books>
